@@ -1,6 +1,6 @@
 ## Hi there, I'm Vector
 
-### ![image]({https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16})About me
+### 🚀 About me
 
 I am currently a Ph.D. Candidate at **[Xidian University](https://www.xidian.edu.cn/)**, Xi'an, China, supervised by **[Prof. Hui LI](https://lihuixidian.github.io)**. 
 

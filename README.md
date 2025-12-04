@@ -1,6 +1,6 @@
-## Hi there, I'm Vector
+# 👋 Hi there, I'm Vector
 
-### 🚀 About me
+## 🚀 About me
 
 I am currently a Ph.D. Candidate at **[Xidian University](https://www.xidian.edu.cn/)**, Xi'an, China, supervised by **[Prof. Hui LI](https://lihuixidian.github.io)**. 
 
@@ -8,9 +8,9 @@ I received my Bachelor's degree from **[Xidian University](https://www.xidian.ed
 
 My research interests focus on **Subgraph Matching**, **Subgraph Counting**, **Graph Embedding**, and **Retrieval-Augmented Generation (RAG)**.
 
-### 🎓 Education
+## 🎓 Education
 
-* **Ph.D. Candidate in [Cyber Security]**
+* **Ph.D. Candidate in [Database]**
     * *Xidian University (XDU)*, Xi'an, China
     * `2022.09 - Present`
     * **Visiting Ph.D. Student** at *Nanyang Technological University (NTU)*, Singapore
